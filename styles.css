@@ -1,2 +1,10 @@
-
+body{
+container div width -> 200px;
+background color -> purple;
+left side border color -> green;
+left side border thickness -> 5 pixels;
+padding on all sides in div -> 10px;
+text font size -> 20 pixels
+heading color -> white
+}
 /* Your CSS Code here. */
