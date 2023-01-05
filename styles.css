@@ -1,14 +1,13 @@
-div h1{
+.main{
     background-color: purple;
     border-left-width: 5px;
     padding: 10px;
     width: 200px;
+    border-left-color: green;
+}
+#heading{
     font-size: 20px;
     color: white;
-    width: 200px;
     text-decoration: underline;
-}
-div{
-    border-left-color: green;
 }
 /* Your CSS Code here. */
